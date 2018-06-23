@@ -20,7 +20,7 @@
    "branch"     : "o8x-caf"
   },
   {
-   "repository":  "ScrewdAOSP/vendor_oneplus",
+   "repository":  "ScrewdAOSP/proprietary_vendor_oneplus",
    "target_path": "vendor/oneplus",
    "branch":      "o8x-caf"
   },
